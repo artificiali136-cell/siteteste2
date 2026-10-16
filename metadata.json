@@ -1,0 +1,6 @@
+{
+  "name": "Página em Branco",
+  "description": "Página HTML em branco pronta para desenvolvimento.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
